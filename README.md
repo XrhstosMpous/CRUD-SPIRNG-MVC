@@ -1,1 +1,1 @@
-# Crud-system of a trainer
+# CRUD-system of a trainer
